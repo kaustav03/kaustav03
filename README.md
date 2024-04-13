@@ -1,3 +1,6 @@
+# 💫 About Me:
+A MCA final year student specializing in Computer Application. Passionate about coding and problem-solving, I have found my true calling in Web Development. 💻 As a fervent learner, I've honed my skills in HTML, CSS, JavaScript, and modern frameworks like React. Crafting intuitive web applications and creating seamless user experiences excites me. 🎯 My journey has been a quest to solve complex problems with elegant solutions. Whether it's a coding challenge or a real-life obstacle, I thrive on finding innovative ways to overcome them. 🌐 With graduation on the horizon, I'm eager to embark on a fulfilling career in Web Development. I'm open to exciting opportunities where I can contribute my creativity and technical acumen.
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kaustav.ghosh.902266) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kaustav_g) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaustav-ghosh-b8a8b3222) 
