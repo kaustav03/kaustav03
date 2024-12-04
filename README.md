@@ -1,7 +1,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
 # 💫 About Me:
-A MCA final year student specializing in Computer Application. Passionate about coding and problem-solving, I have found my true calling in Web Development. 💻 As a fervent learner, I've honed my skills in HTML, CSS, JavaScript, and modern frameworks like React. Crafting intuitive web applications and creating seamless user experiences excites me. 🎯 My journey has been a quest to solve complex problems with elegant solutions. Whether it's a coding challenge or a real-life obstacle, I thrive on finding innovative ways to overcome them. 🌐 With graduation on the horizon, I'm eager to embark on a fulfilling career in Web Development. I'm open to exciting opportunities where I can contribute my creativity and technical acumen.
+A MCA passout student specializing in Computer Application. Passionate about coding and problem-solving, I have found my true calling in Web Development. 💻 As a fervent learner, I've honed my skills in HTML, CSS, JavaScript, and modern frameworks like React. Crafting intuitive web applications and creating seamless user experiences excites me. 🎯 My journey has been a quest to solve complex problems with elegant solutions. Whether it's a coding challenge or a real-life obstacle, I thrive on finding innovative ways to overcome them. 🌐 With graduation on the horizon, I'm eager to embark on a fulfilling career in Web Development. I'm open to exciting opportunities where I can contribute my creativity and technical acumen.
 
 
 ## 🌐 Socials:
